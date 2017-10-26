@@ -26,6 +26,9 @@ h1 {
     color: darkslategray;
 }
 
+h2 {
+    color: darkblue;
+}
 input {
     font-size: 20px;
     margin-bottom: 10px;
@@ -42,7 +45,7 @@ button {
 }
 
 li {
-    width: 200px;
+    width: 600px;
     padding: 5px;
     font-size: 20px;
     border-bottom: solid 1px lightgray;
